@@ -1,0 +1,10 @@
+data-edge-backend/
+├── supabase/
+│   ├── functions/
+│   │   ├── installmentBilling/
+│   │   │   └── index.ts
+│   │   └── activatePlan/
+│   │       └── index.ts
+│   └── migrations/
+│       └── 001_schema.sql
+└── README.md
